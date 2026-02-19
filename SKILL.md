@@ -3,8 +3,9 @@ name: harm-principle-analysis
 description: 'Apply Mill''s "one very simple principle" to determine whether society may legitimately restrict an action: the sole end for which mankind is warranted in interfering with the liberty of any individ...'
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4142
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - harm-principle-analysis
 - writing
